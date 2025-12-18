@@ -1,0 +1,9 @@
+[submodule "modules"]
+    path=modules
+    url=https://github.com/RicYaben/dice-mini-modules
+    branch="cs-2025-mwm"
+
+[submodule "dice-mini"]
+    path="dice-mini"
+    url=https://github.com/RicYaben/dice-mini
+    branch="cs-2025-mwm"
