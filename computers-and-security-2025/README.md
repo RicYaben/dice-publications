@@ -12,7 +12,7 @@ This repository contains the configuration files needed to reproduce the results
 
 > [!IMPORTANT]
 > ZGrab2 probes for IEC 104 and Ethernet/IP available at 
-> https://github.com/RicYaben/zgrab2.git
+> [https://github.com/RicYaben/zgrab2.git](https://github.com/RicYaben/zgrab2/tree/cs-2025-mwm)
 
 ## Reproducing the experiment
 
